@@ -13,7 +13,7 @@ The purpose of this project is to demonstrate my ability to collect, work with, 
 
 3) A CodeBook.md describes the variables, the data, and transformations that were performed to clean up the data. 
 
-4) A tidy.txt file which provides a tidy data set with the average of each variable: Subject, Activity and Measurement.
+4) A Tidy_Dataset.txt file which provides a tidy data set with the average of each variable: Subject, Activity and Measurement.
 
 The full description of the data used in this project can be found at The UCI Machine Learning Repository [here][2]. The source data for this project can be found [here][1]
 
